@@ -2,7 +2,7 @@
 
 - 😍 Atualmente estou cursando:
 -  ✔   Licenciatura em Computação - UFRPE
--  ✔  Mestrado e Informática Aplicada - UFRPE
+-  ✔  Mestrado em Informática Aplicada - UFRPE
 	
    📄 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacqueline-navarro-a928113b/)
    
